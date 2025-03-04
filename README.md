@@ -13,18 +13,11 @@
 - [Contact](#contact)
 
 ## About the Project
-**EazyEatz** is a simple and intuitive online food delivery platform that allows users to browse restaurants, view menus, and place orders seamlessly. Built with **HTML, CSS, and JavaScript**, this project focuses on providing a user-friendly and responsive experience for food lovers.
+**EazyEatz** is a simple and intuitive online food ordering platform that allows users to browse menus, and place orders seamlessly. Built with **HTML, CSS, and JavaScript**, this project focuses on providing a user-friendly and responsive experience for food lovers.
 
 🚀 **Current Status:** The website is functional, offering a smooth UI/UX, but additional features such as authentication, order tracking, and payment integration are planned for future updates.
 
 ## Features
-- 🍔 **Restaurant Listings**
-  - Browse a variety of restaurants and their menus
-  - View restaurant details, ratings, and reviews
-
-- 🛒 **Cart & Checkout System** *(Basic Implementation)*
-  - Add items to the cart and modify orders
-  - Proceed to checkout with an intuitive interface
 
 - 🎨 **Responsive Design**
   - Fully mobile-friendly layout
@@ -38,11 +31,12 @@
   - 🔐 User Authentication (Login & Signup)
   - 💳 Payment Gateway Integration
   - 📦 Real-time Order Tracking
+  - 🛒 Cart & Checkout System
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Styling:** CSS (Flexbox, Grid, Animations)
-- **Deployment:** GitHub Pages / Vercel
+- **Deployment:** Vercel
 
 ## Installation
 1. **Clone the repository:**
@@ -54,7 +48,7 @@
    - Simply open `index.html` in a browser.
 
 ## Deployment
-- The project is deployed on **GitHub Pages / Vercel**.
+- The project is deployed on **Vercel**.
 - To deploy manually:
    ```sh
    git add .
